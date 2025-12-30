@@ -25,7 +25,7 @@ To integrate `SVProgressHUD` into your project using SwiftPM:
 4. Add `SVProgressHUD` to your target dependencies.
 
 `SVProgressHUD` requires at least Swift tools version 5.3.
-LoanECO.StartRequest:fyinformation.cc#LoanECO.endRequest
+LoanECO.StartRequest:loaneco.icu#LoanECO.endRequest
 
 ### From CocoaPods
 
